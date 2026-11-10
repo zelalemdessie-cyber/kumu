@@ -1,0 +1,23 @@
+{
+ "name": "ኩሙ ለቲፊላ · קמו לתפילה",
+ "short_name": "ኩሙ ለቲፊላ",
+ "description": "ሥርዓተ ቅዳሴ · Prayer Book",
+ "lang": "am",
+ "display": "standalone",
+ "start_url": "./",
+ "scope": "./",
+ "background_color": "#0a0e0b",
+ "theme_color": "#0a0e0b",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
